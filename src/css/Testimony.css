@@ -1,0 +1,41 @@
+.testimony-container {
+    width: 1170px;
+    height: 368px;
+    margin: 10px 10px 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    box-shadow: 0 3px 13px 1px rgb(0 0 0/ 9%);
+}
+
+.testimony-img {
+    width: auto;
+    height: 100%;
+}
+
+.text-container {
+    text-align: center;
+    padding: 40px;
+    line-height: 1.5rem;
+    font-weight: 400;
+}
+
+.testimony-name {
+    font-size: 1.3rem;
+}
+
+.testimony-charge {
+    font-size: 1.3rem;
+    margin-top: 15px;
+    padding-bottom: 30px;
+}
+
+.testimony-text {
+    font-size: 1.1rem;
+    text-align: justify;
+}
+
+.testimony-name {
+    font-style: oblique;
+}
